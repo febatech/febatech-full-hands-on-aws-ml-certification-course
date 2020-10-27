@@ -1,9 +1,6 @@
 # febatech-full-hands-on-ml-with-aws-services
 
-AI/ML Product Launch Road Map
-
-YouTube Channel :
-AWS Partner Network - FEBATECH - Full Hands-On AWS ML/deep learning Free Course
+# AI/ML Product Launch Road Map
 
 Description:
 This course is full hands-on simple and crisp one . It helps you to prepare certification in AWS Machine Learning–
@@ -14,14 +11,17 @@ GIT Repo: <febatech-hands-on-ml-with-aws-services> .
 
 In Git Repo below is the folder-str
 
-AWS-Cloud-Domains
+# AWS-Cloud-Domains
 Domain 1: Data Engineering
 Domain 2: Exploratory Data Analysis
 Domain 3: Modeling
 Domain 4: Machine Learning Implementation and Operations
 
-ML/deep learning-Models
+# ML/deep learning-Models
 • House Predictions
 • Wine Classification
 • Glass Classification
 • Cancer Classification
+
+# YouTube Channel :
+AWS Partner Network - FEBATECH - Full Hands-On AWS ML/deep learning Free Course
