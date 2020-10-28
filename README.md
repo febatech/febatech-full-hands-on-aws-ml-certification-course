@@ -9,17 +9,17 @@ GIT Repo: <febatech-hands-on-ml-with-aws-services> .
 
 In Git Repo below is the folder-str
 
-## AWS-Cloud-Domains
+## Machine Learning - Domains
 * Domain 1: Data Engineering
 * Domain 2: Exploratory Data Analysis
 * Domain 3: Modeling
 * Domain 4: Machine Learning Implementation and Operations
 
-## ML/deep learning-Models
+## ML/deep learning - Models
 * House Predictions
 * Wine Classification
 * Glass Classification
 * Cancer Classification
 
 # YouTube Channel :
-AWS Partner Network - FEBATECH - Full Hands-On AWS ML/deep learning Free Course
+AWS Partner Network - FEBATECH - Full Hands-On AWS ML/deep learning Course
