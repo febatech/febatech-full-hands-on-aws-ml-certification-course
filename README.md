@@ -9,7 +9,7 @@ GIT Repo: <febatech-hands-on-ml-with-aws-services> .
 
 In Git Repo below is the folder-str
 
-## Machine Learning - Domains
+## Machine learning - Domains
 * Domain 1: Data Engineering
 * Domain 2: Exploratory Data Analysis
 * Domain 3: Modeling
