@@ -22,4 +22,4 @@ In Git Repo below is the folder-str
 * Cancer Classification
 
 # YouTube Channel :
-AWS Partner Network - FEBATECH - Full Hands-On AWS ML/deep learning Course
+AWS Partner Network - FEBATECH - AI ML Essentials
