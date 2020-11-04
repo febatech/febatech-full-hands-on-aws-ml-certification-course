@@ -11,15 +11,15 @@ In Git Repo below is the folder-str
 
 ## Machine learning - Domains
 * Domain 1: Data Engineering
-* Domain 2: Exploratory Data Analysis
-* Domain 3: Modeling
-* Domain 4: Machine Learning Implementation and Operations
+* [Domain 2: Exploratory Data Analysis](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%202:%20Exploratory%20Data%20Analysis)
+* [Domain 3: Modeling](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%203:%20Modeling)
+* [Domain 4: Machine Learning Implementation and Operations](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%204:%20Machine%20Learning%20Implementation%20and%20Operations)
 
 ## ML/deep learning - Models
-* House Predictions
-* Wine Classification
-* Glass Classification
-* Cancer Classification
+* [House Predictions](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/housing-price-prediction.ipynb)
+* [Wine Classification](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/wine-classification-self-explained.ipynb)
+* [Glass Classification](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/wine-classification-self-explained.ipynb)
+* [Cancer Classification](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/Deep_Learning.ipynb)
 
 # YouTube Channel :
 AWS Partner Network - FEBATECH - AI ML Essentials
