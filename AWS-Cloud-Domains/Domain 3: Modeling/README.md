@@ -24,10 +24,11 @@
 * K-Nearest-Neighbors (KNN) in SageMaker
 * K-Means Clustering in SageMaker
 
-# Sub-Task
+# Directions
 
-#### Frame business problems as machine learning problems.
-#### Select the appropriate model(s) for a given machine learning problem.
-#### Train machine learning models.
-#### Perform hyperparameter optimization.
-#### Evaluate machine learning models
+* You have to read the brief documentation that we provided in simple language.
+* The documentation covers the following aspects required for the exam:
+1. Framing business problems as machine learning problems.
+2. Select the appropriate model(s) for a given machine learning problem.
+3. Train machine learning models.
+4. Tuning Hyperparameters
