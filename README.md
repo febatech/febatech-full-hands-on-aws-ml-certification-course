@@ -10,7 +10,7 @@ GIT Repo: <febatech-hands-on-ml-with-aws-services> .
 In Git Repo below is the folder-str
 
 ## Machine learning - Domains
-* [Domain 1: Data Engineering] 
+* [Domain 1: Data Engineering](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%201:%20Data%20Engineering)
 * [Domain 2: Exploratory Data Analysis](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%202:%20Exploratory%20Data%20Analysis)
 * [Domain 3: Modeling](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%203:%20Modeling)
 * [Domain 4: Machine Learning Implementation and Operations](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%204:%20Machine%20Learning%20Implementation%20and%20Operations)
