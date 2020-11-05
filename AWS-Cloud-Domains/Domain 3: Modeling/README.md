@@ -2,3 +2,11 @@
 
 * This domain is the core part of the speciality, where we select and train our Machine Learning Models depending upon the task.
 * We will use different types of Models for different problems, like Classification and Regression.
+
+# Sub-Task
+
+#### Frame business problems as machine learning problems.
+#### Select the appropriate model(s) for a given machine learning problem.
+#### Train machine learning models.
+#### Perform hyperparameter optimization.
+#### Evaluate machine learning models
