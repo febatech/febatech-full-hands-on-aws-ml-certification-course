@@ -1,4 +1,4 @@
-Domain 1.1: Create data repositories for machine learning
+# Domain 1.1: Create data repositories for machine learning
 
 The whole field of ML revolves around data. With clean data, you can gain important business insights. Data allows you to be proactive rather than reactive in making strategic business decisions, and helps you understand your customers at a deeper level.
 
