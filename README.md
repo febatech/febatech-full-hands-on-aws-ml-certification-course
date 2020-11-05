@@ -21,5 +21,3 @@ In Git Repo below is the folder-str
 * [Glass Classification](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/wine-classification-self-explained.ipynb)
 * [Cancer Classification](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/blob/main/ML-Deep%20Learning-Models/Deep_Learning.ipynb)
 
-# YouTube Channel :
-AWS Partner Network - FEBATECH - AI ML Essentials
