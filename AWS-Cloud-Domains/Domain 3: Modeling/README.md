@@ -32,3 +32,7 @@
 2. Select the appropriate model(s) for a given machine learning problem.
 3. Train machine learning models.
 4. Tuning Hyperparameters
+
+# References and Further reading
+
+* https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
