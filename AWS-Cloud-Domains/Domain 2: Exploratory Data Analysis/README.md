@@ -34,8 +34,8 @@
 
 # Videos
 
-* https://youtu.be/Op7BaPSFRwg
-* https://youtu.be/izpAsWGkmm8
-* https://youtu.be/EFtAtmwi70s
-* https://youtu.be/VW0v_XnoM5k
-* https://youtu.be/9sPYg-e9o4k
+* FEBATECH AWS AI/ML : Domain 2 | S3 : https://youtu.be/VW0v_XnoM5k
+* FEBATECH AWS AI/ML : Domain 2 | Glue Crawler : https://youtu.be/EFtAtmwi70s
+* FEBATECH AWS AI/ML : Domain 2 | ETL : https://youtu.be/izpAsWGkmm8
+* FEBATECH AWS AI/ML : Domain 2 | Athena : https://youtu.be/Op7BaPSFRwg
+* FEBATECH AWS AI/ML : Domain 2 | Sagemaker : https://youtu.be/9sPYg-e9o4k
