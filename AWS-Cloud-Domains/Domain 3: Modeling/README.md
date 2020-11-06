@@ -43,3 +43,10 @@
 * https://www.kaggle.com/c/home-data-for-ml-course
 * https://www.kaggle.com/nareshbhat/wine-quality-binary-classification
 * https://www.kaggle.com/uciml/glass
+
+# Videos 
+
+* https://www.youtube.com/watch?v=JlrMU0eP3Ug
+* https://www.youtube.com/watch?v=MA_qh4rq0Sg
+* https://www.youtube.com/watch?v=VNflY1whzsw
+
