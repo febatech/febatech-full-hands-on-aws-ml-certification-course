@@ -30,10 +30,12 @@
 # References and Further Reading
 
 * https://www.kaggle.com/c/home-data-for-ml-course
-* Video Links:
-  1) https://youtu.be/Op7BaPSFRwg
-  2) https://youtu.be/izpAsWGkmm8
-  3) https://youtu.be/EFtAtmwi70s
-  4) https://youtu.be/VW0v_XnoM5k
-  5) https://youtu.be/9sPYg-e9o4k
 * https://docs.aws.amazon.com/
+
+# Videos
+
+* https://youtu.be/Op7BaPSFRwg
+* https://youtu.be/izpAsWGkmm8
+* https://youtu.be/EFtAtmwi70s
+* https://youtu.be/VW0v_XnoM5k
+* https://youtu.be/9sPYg-e9o4k
