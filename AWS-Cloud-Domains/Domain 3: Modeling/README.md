@@ -36,3 +36,7 @@
 # References and Further reading
 
 * https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+* Video Links on Youtube:
+  1) https://youtu.be/MA_qh4rq0Sg
+  2) https://youtu.be/JlrMU0eP3Ug
+  3) 
