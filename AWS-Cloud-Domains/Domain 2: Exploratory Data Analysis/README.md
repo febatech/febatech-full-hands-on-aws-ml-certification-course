@@ -5,7 +5,20 @@
 
 # Content
 
-* 
+* Glue
+  1) Creating a crawler
+  2) Using ETL to Transform .csv to .json
+* Athena
+  1) Athena for simple SQL queries
+  2) QuickSight
+* EMR
+* Sagemaker
+  1) Preprocess and visualization with Sagemaker notebook
+* Feature Engineering
+  1) Imputing Missing Data
+  2) Handling Unbalanced Data
+  3) Handling Outliers
+  4) Preprocessing
 
 # Directions
 
