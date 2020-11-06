@@ -19,6 +19,7 @@
   2) Handling Unbalanced Data
   3) Handling Outliers
   4) Preprocessing
+* A sample Jupyter Notebook giving you a handon excercise on the topics above.
 
 # Directions
 
