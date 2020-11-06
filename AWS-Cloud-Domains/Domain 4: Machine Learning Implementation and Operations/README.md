@@ -13,8 +13,10 @@
 
 * You need to follow the video, that shows detailed steps of extracting data from S3, importing model from script file, training and deploying.
 * You can choose your own model or from the Modelling Section and work it out in the SageMaker
+* The problem is taken from Kaggle Cancer Detection Competition
 
 # References and Further Reading
 
 * https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+* https://youtu.be/7NXxe9Yjzhg
 * 
