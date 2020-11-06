@@ -42,7 +42,7 @@
 
 # Videos 
 
-* https://www.youtube.com/watch?v=JlrMU0eP3Ug
-* https://www.youtube.com/watch?v=MA_qh4rq0Sg
-* https://www.youtube.com/watch?v=VNflY1whzsw
+* FEBATECH AWS AI/ML : Domain 3 | Intro to Deep Learning : https://www.youtube.com/watch?v=JlrMU0eP3Ug
+* FEBATECH AWS AI/ML : Domain 3 | Training Neural Networks : https://www.youtube.com/watch?v=MA_qh4rq0Sg
+* FEBATECH AWS AI/ML : Domain 3 | Confusion Matrix | Other Evaluations | Intro to Amazon Sagemaker  :  https://www.youtube.com/watch?v=VNflY1whzsw
 
