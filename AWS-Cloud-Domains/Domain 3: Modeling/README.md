@@ -40,3 +40,6 @@
   1) https://youtu.be/MA_qh4rq0Sg
   2) https://youtu.be/JlrMU0eP3Ug
   3) https://youtu.be/VNflY1whzsw
+* https://www.kaggle.com/c/home-data-for-ml-course
+* https://www.kaggle.com/nareshbhat/wine-quality-binary-classification
+* https://www.kaggle.com/uciml/glass
