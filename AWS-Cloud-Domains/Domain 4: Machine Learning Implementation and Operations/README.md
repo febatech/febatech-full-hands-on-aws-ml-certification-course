@@ -18,5 +18,7 @@
 # References and Further Reading
 
 * https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+
+# Videos
+
 * https://youtu.be/7NXxe9Yjzhg
-* 
