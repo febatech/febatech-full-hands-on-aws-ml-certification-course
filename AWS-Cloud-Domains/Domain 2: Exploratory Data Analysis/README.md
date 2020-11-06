@@ -36,3 +36,4 @@
   3) https://youtu.be/EFtAtmwi70s
   4) https://youtu.be/VW0v_XnoM5k
   5) https://youtu.be/9sPYg-e9o4k
+* https://docs.aws.amazon.com/
