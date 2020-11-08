@@ -5,8 +5,12 @@
 # Content
 
 * Create data repositories for machine learning
+  1) AWS Lake Formation and AWS S3
 * Identify and implement a data ingestion solution
+  1) Batch Processing
+  2) Stream processing
 * Identify and implement a data transformation solution
+  1) Transforming your data for ML
 
 # Directions
 
