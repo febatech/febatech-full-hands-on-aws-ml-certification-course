@@ -1,6 +1,6 @@
-## About this course
-* Introduction Video : https://www.youtube.com/channel/UC8_5ceUU2VcmU5kndTB-rmg?view_as=subscriber
-*Team video: https://www.youtube.com/channel/UC8_5ceUU2VcmU5kndTB-rmg?view_as=subscriber
+About this course:
+Introduction Video   : https://www.youtube.com/channel/UC8_5ceUU2VcmU5kndTB-rmg?view_as=subscriber
+Course Content Video : https://www.youtube.com/channel/UC8_5ceUU2VcmU5kndTB-rmg?view_as=subscriber
 
 ## Description:
 This course is full hands-on simple and crisp one . It helps you to prepare certification in AWS Machine Learning–
