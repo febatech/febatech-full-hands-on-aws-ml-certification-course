@@ -10,7 +10,7 @@
 
 # Directions
 
-* We present you with all the concepts requires in the form of a **Jupyter Notebook**. 
+* We present you with all the concepts required in the form of a **Jupyter Notebook**. 
 * You are required to read them in sequence
 
 # References and Further Reading
