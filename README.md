@@ -1,6 +1,5 @@
 ## About this course:
 * Introduction Video   : https://youtu.be/Uq3nDdCHWaQ
-* Course Content Video : 
 
 ## Description:
 This course is full hands-on simple and crisp one . It helps you to prepare certification in AWS Machine Learning–
