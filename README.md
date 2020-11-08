@@ -7,10 +7,6 @@ This course is full hands-on simple and crisp one . It helps you to prepare cert
 Specialty . Secondly It enables you to model predictions and classification problems using state of the art ML /deep
 learning algorithms.
 
-GIT Repo: <febatech-hands-on-ml-with-aws-services> .
-
-In Git Repo below is the folder-str
-
 ## Machine learning - Domains
 * [Domain 1: Data Engineering](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%201:%20Data%20Engineering)
 * [Domain 2: Exploratory Data Analysis](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%202:%20Exploratory%20Data%20Analysis)
