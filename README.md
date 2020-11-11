@@ -6,11 +6,6 @@ Individuals, who would like to be certified in the AWS Machine Learning Specialt
 
 This course is an effort to fill the gap we see in the market and there is no course in the market today which helps individuals with AWS ML Certification as well as to model real-world Machine Learning problems. Hence this course is full hands-on and simple, crisp one. It helps you to prepare both certifications in AWS ML Specialty exam and to model real-world Machine Learning problems.
 
-## Description:
-This course is full hands-on simple and crisp one . It helps you to prepare certification in AWS Machine Learning–
-Specialty . Secondly It enables you to model predictions and classification problems using state of the art ML /deep
-learning algorithms.
-
 ## Machine learning - Domains
 * [Domain 1: Data Engineering](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%201:%20Data%20Engineering)
 * [Domain 2: Exploratory Data Analysis](https://github.com/febatech/febatech-full-hands-on-aws-ml-certification-course/tree/main/AWS-Cloud-Domains/Domain%202:%20Exploratory%20Data%20Analysis)
