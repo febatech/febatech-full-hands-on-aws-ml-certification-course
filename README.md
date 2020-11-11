@@ -1,5 +1,5 @@
 ## About this course:
-* Introduction Video   : https://youtu.be/Uq3nDdCHWaQ
+* Introduction Video   : https://youtu.be/C0Phpmtyg8U
 
 ## Why this course:
 Individuals, who would like to be certified in the AWS Machine Learning Specialty exam are only half of the story but to model a real-world Machine Learning problem, respective individuals need to learn hands-on skills elsewhere.   
