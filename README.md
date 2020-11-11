@@ -1,6 +1,11 @@
 ## About this course:
 * Introduction Video   : https://youtu.be/Uq3nDdCHWaQ
 
+## Why this course:
+Individuals, who would like to be certified in the AWS Machine Learning Specialty exam are only half of the story but to model a real-world Machine Learning problem, respective individuals need to learn hands-on skills elsewhere.   
+
+This course is an effort to fill the gap we see in the market and there is no course in the market today which helps individuals with AWS ML Certification as well as to model real-world Machine Learning problems. Hence this course is full hands-on and simple, crisp one. It helps you to prepare both certifications in AWS ML Specialty exam and to model real-world Machine Learning problems.
+
 ## Description:
 This course is full hands-on simple and crisp one . It helps you to prepare certification in AWS Machine Learning–
 Specialty . Secondly It enables you to model predictions and classification problems using state of the art ML /deep
