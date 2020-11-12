@@ -22,4 +22,8 @@
 * https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
 * https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html
 * https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+* https://docs.aws.amazon.com/athena/latest/ug/what-is.html
+* https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html
+* https://docs.aws.amazon.com/streams/latest/dev/introduction.html
+* https://docs.aws.amazon.com/firehose/latest/dev/what-is-this-service.html
 
