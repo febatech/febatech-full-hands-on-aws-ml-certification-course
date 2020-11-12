@@ -19,4 +19,5 @@
 
 # References and Further Reading
 
-* https://docs.aws.amazon.com/
+* https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+
