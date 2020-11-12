@@ -20,4 +20,5 @@
 # References and Further Reading
 
 * https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+* https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html
 
