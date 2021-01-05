@@ -39,6 +39,12 @@
 * https://www.kaggle.com/c/home-data-for-ml-course
 * https://www.kaggle.com/nareshbhat/wine-quality-binary-classification
 * https://www.kaggle.com/uciml/glass
+* https://docs.aws.amazon.com/sagemaker/latest/dg/security.html
+* https://docs.aws.amazon.com/sagemaker/latest/dg/monitoring-overview.html
+* https://docs.aws.amazon.com/sagemaker/latest/dg/train-model.html
+
+Go over machine learning documentation. VVVVV 10-15 qs
+https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html
 
 # Videos 
 
