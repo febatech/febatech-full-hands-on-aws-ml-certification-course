@@ -20,6 +20,7 @@
 * https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
 * https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 * https://docs.docker.com/
+* https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html
 
 # Videos
 
